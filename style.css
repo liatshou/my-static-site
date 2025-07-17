@@ -38,14 +38,6 @@ body {
     background-color: #e65d10;
 }
 
-.cta-button.secondary {
-    background-color: #FF6A13;
-}
-
-.cta-button.secondary:hover {
-    background-color: #e65d10;
-}
-
 .cta-button .icon {
     height: 20px;
     vertical-align: middle;
