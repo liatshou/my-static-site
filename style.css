@@ -20,7 +20,7 @@ body {
 
 .cta-button {
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 12px 24px;
     font-size: 16px;
     color: white;
@@ -32,4 +32,12 @@ body {
 
 .cta-button:hover {
     background-color: #005f99;
+}
+
+.cta-button.secondary {
+    background-color: #28a745;
+}
+
+.cta-button.secondary:hover {
+    background-color: #1c7d33;
 }
