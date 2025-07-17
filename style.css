@@ -41,3 +41,9 @@ body {
 .cta-button.secondary:hover {
     background-color: #1ebe5d;
 }
+
+.cta-button .icon {
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
